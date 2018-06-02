@@ -10,7 +10,7 @@ int main()
 
     srand((unsigned) time(&t));
 
-    printf( "Enter the number of the disks: \n" );
+    printf( "The number of the disks is: \n" );
 
     n = rand() % 10 ;
 
