@@ -13,10 +13,10 @@ int main()
     printf( "A is the bronze plate\n" );
     printf( "B is the silver plate\n" );
     printf( "C is the golden plate\n" );
+
+    n = rand() % 15 ;
+
     printf( "The number of the slices is: \n" );
-
-    n = rand() % 10 ;
-
     printf("%d", n);
 
     towerOfHanoi( n , 'A' , 'B' , 'C' );

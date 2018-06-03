@@ -4,7 +4,7 @@ void towerOfHanoi( int n, char from_rod, char aux_rod, char to_rod )
 {
     if( n == 1 )
     {
-        printf( "\nThe disk 1 will be move from plate %c to %c " , from_rod , to_rod );
+        printf( "\nThe slice 1 will be move from plate %c to %c " , from_rod , to_rod );
         return;
     }
 
