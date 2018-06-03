@@ -10,7 +10,10 @@ int main()
 
     srand((unsigned) time(&t));
 
-    printf( "The number of the disks is: \n" );
+    printf( "A is the bronze plate\n" );
+    printf( "B is the silver plate\n" );
+    printf( "C is the golden plate\n" );
+    printf( "The number of the slices is: \n" );
 
     n = rand() % 10 ;
 

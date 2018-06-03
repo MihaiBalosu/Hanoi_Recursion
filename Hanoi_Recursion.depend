@@ -1,11 +1,14 @@
 # depslib dependency file v1.0
-1527954310 source:c:\facultate\sem2\proiect ad\hanoi_recursion\main.c
+1528034502 source:c:\facultate\sem2\proiect ad\hanoi_recursion\main.c
 	<stdio.h>
 	<stdlib.h>
 	"TowOfHan.h"
+	"Rand_Gen.h"
 
 1527954275 c:\facultate\sem2\proiect ad\hanoi_recursion\towofhan.h
 
-1527954307 source:c:\facultate\sem2\proiect ad\hanoi_recursion\towofhan.c
+1528034528 source:c:\facultate\sem2\proiect ad\hanoi_recursion\towofhan.c
 	"TowOfHan.h"
+
+1527959305 c:\facultate\sem2\proiect ad\hanoi_recursion\rand_gen.h
 
