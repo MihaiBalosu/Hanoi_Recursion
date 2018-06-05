@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "TowOfHan.h"
-#include "Rand_Gen.h"
+
 
 int n;
 
